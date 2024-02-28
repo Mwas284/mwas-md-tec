@@ -79,12 +79,11 @@
 ## Deployment Methods
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://qr-scan.giftedtechnexus.co.ke) Or [`PARING CODE`](https://replit.com/@BrianMwangi9/MWAS-MD-Pairing-Code#index.js). And then `Go-to Whatapp>Three dots>Linked Devices`***
-2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-3.  ***Click [`FORK`](https://github.com/Mwas284/mwas-md-tec) and `Star ⭐ Repository` for Courage.***
-4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
-5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Mwas284/mwas-md-tec)***
-6.  ***Deploy on [`Replit`](https://replit.com/github/Giftedmaurice/gifted-bot-md)***
-7.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
+2.  ***Click [`FORK`](https://github.com/Mwas284/mwas-md-tec) and `Star ⭐ Repository` for Courage.***
+3.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
+4.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Mwas284/mwas-md-tec)***
+5.  ***Deploy on [`Replit`](https://replit.com/github/Giftedmaurice/gifted-bot-md)***
+6.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 
 
 ##
