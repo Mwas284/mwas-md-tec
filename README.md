@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Mwas284/mwas-md-tec"><b>Gifted-Bot</b></a> Support Deploy On...
+  <a href="https://github.com/Mwas284/mwas-md-tec"><b>❝𝐦𝐰𝐚𝐬 𝐭𝐞𝐜𝐡❞ </b></a> Support Deploy On...
 </p>
 
 <p align="center">
