@@ -15,7 +15,7 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
-global.github=process.env.GITHUB|| "https://github.com/Mwas284/gifted-bot-md";
+global.github=process.env.GITHUB|| "https://github.com/Mwas284/mwas-md-tec";
 global.gurl  =process.env.GURL  || "";
 global.website=process.env.GURL || "" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/488eb8d083c3361a543b0.jpg" ; // SET LOGO FOR IMAGE 
@@ -57,16 +57,16 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,254740628296";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254740628296,254740628296";
 
 global.api_smd = "https://api-smd-1.vercel.app"
-global.scan = "https://qr-scan.giftedtechnexus.co.ke/";
+global.scan = "https://qr-scan.duslang.co.ke/";
 
 module.exports = {
 
-  menu: process.env.MENU || "2", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Gifted Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
+  menu: process.env.MENU || "2", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: dus Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
 
   HANDLERS: process.env.PREFIX  || "!",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "¯\(°_o)/¯ 𐒄Ⱳ𐤠Ⳝ☩𐒄Ɗ☩ƁΘƬ☩😌 ¯\(o_°)/¯" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o"),
+  caption : process.env.CAPTION || "¯\(°_o)/¯ 𐒄Ⱳ𐤠Ⳝ☩𐒄Ɗ☩ƁΘƬ☩😌 ¯\(o_°)/¯" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ dus 』```", //*『sᴜʙsᴄʀɪʙᴇ • dus』*\n https://whatsapp.com"),
  
   author : process.env.PACK_AUTHER|| "𝖒𝖜𝖆𝖘 𝖒𝖉 𝖇𝖔𝖙 😌",
   packname: process.env.PACK_NAME || "📍",
