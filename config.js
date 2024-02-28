@@ -15,7 +15,7 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
-global.github=process.env.GITHUB|| "https://github.com/Mwas284/gifted-bot-md";
+global.github=process.env.GITHUB|| "https://github.com/Mwas284/mwas-md-tec";
 global.gurl  =process.env.GURL  || "";
 global.website=process.env.GURL || "" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/488eb8d083c3361a543b0.jpg" ; // SET LOGO FOR IMAGE 
