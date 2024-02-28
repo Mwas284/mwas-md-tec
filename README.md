@@ -10,7 +10,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+254740628296?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
+  <a href="https://wa.me/+254740628296?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+mwas md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ is free to use" href="https://https://github.com/Mwas284/gifted-bot-md" target="_blank">
@@ -80,7 +80,7 @@
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://qr-scan.giftedtechnexus.co.ke/) Or [`PARING CODE`](https://replit.com/@mauricegift045/GiftedTechPairingCode#index.js). And then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-3.  ***Click [`FORK`](https://github.com/Giftedmaurice/gifted-bot-md/fork) and `Star ⭐ Repository` for Courage.***
+3.  ***Click [`FORK`](https://github.com/Mwas284/mwas-md-tec) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FGiftedmaurice%2Fgifted-bot-md)***
@@ -97,7 +97,7 @@
 
 
 ### Thanks To
-- [Gifted Tech](https://github.com/Mwas284/gifted-bot-md) 
+- [❝𝐦𝐰𝐚𝐬 𝐭𝐞𝐜𝐡❞](https://github.com/Mwas284/gifted-bot-md) 
 
 
 
@@ -106,7 +106,7 @@
 </h2>
    
 ## 
-- *Gifted-Bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *❝𝐦𝐰𝐚𝐬 𝐭𝐞𝐜𝐡❞ is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Gifted-Bot at your own risk by keeping this warning in mind.*
+- *Use mwas-Bot at your own risk by keeping this warning in mind.*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Mwas284/gifted-bot-md)
