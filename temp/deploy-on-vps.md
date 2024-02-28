@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="254728782591"
+      OWNER_NUMBER="254740628296"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
       THUMB_IMAGE = "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
-      OWNER_NAME = "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ"
+      OWNER_NAME = "MЩΛƧ ƬΣᄃΉ ︻╦̵̵̿╤─ ҉~•"
       PREFIX = .
       WARN_COUNT = 5
       DISABLE_PM = "true"
-      THEME= "GIFTED"
+      THEME= "mwas"
       MODE = "private"
       ANTILINK_VALUES = "https://,chat.whatsapp.com"
       
