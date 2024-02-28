@@ -82,7 +82,7 @@
 2.  ***Click [`FORK`](https://github.com/Mwas284/mwas-md-tec) and `Star ⭐ Repository` for Courage.***
 3.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 4.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Mwas284/mwas-md-tec)***
-5.  ***Deploy on [`Replit`](https://replit.com/github/Giftedmaurice/gifted-bot-md)***
+5.  ***Deploy on [`Replit`](https://replit.com/@BrianMwangi9/mwas-md-tec#README.md)***
 6.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 
 
